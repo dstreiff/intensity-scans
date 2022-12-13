@@ -6,7 +6,6 @@
     save them in a 2d-array and after all measurements have been taken, write that array to the csv file. */
 
 
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

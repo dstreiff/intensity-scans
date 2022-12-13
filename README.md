@@ -11,6 +11,6 @@ The application can acquire data for two-dimensional heatmaps of photon countrat
 
 ### Example Scans:
 
-![image](https://github.com/dstreiff/2D-Fluorescence-Scan/blob/main/images/image1.PNG?raw=true)
+![image](images/image1.PNG?raw=true)
 
-![image](https://github.com/dstreiff/2D-Fluorescence-Scan/blob/main/images/image2.png?raw=true)
+![image](images/image2.PNG?raw=true)

@@ -1,0 +1,13 @@
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\IntensityScans.exe.config
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\IntensityScans.exe
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\IntensityScans.pdb
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.csproj.AssemblyReference.cache
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.csproj.CoreCompileInputs.cache
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.csproj.CopyComplete
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.exe
+C:\Users\ONG_lab\source\repos\IntensityScans\obj\Debug\IntensityScans.pdb
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\ONG_lab\source\repos\IntensityScans\bin\Debug\Thorlabs.MotionControl.Tools.WPF.dll

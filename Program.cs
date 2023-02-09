@@ -1,6 +1,6 @@
 ﻿
 /* This code is deeply nested. As this is a small single-file application, I didn't bother refactoring it. 
-    One could however create a new class for example, which would contain most of the accessed variables inside the two for-loops (line 214 and 218). 
+    One could however create a new class for example, which would contain most of the accessed variables inside the two for-loops (line 207 and 211). 
     Then define object methods when needed. The methods are then called inside the for-loops. 
     Currently the csv-file is opened before initiating the measurements and it is only closed once the program ends. Better would be to first acquire all measurements,
     save them in a 2d-array and after all measurements have been taken, write that array to the csv file. */
